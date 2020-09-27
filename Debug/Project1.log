@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(84): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(85): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(86): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(93): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(94): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(115): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(116): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(117): warning C4305: =: усечение из "double" в "float"
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(339): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(377): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(520): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(613): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(614): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(618): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(619): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(621): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\asus\documents\progs\5sem\opengl\kursach\project1\project1\main.cpp(622): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  Project1.vcxproj -> C:\Users\asus\Documents\progs\5sem\opengl\kursach\Project1\Debug\Project1.exe
